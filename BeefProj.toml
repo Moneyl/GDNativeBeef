@@ -3,4 +3,5 @@ FileVersion = 1
 [Project]
 Name = "GDNativeBeef"
 TargetType = "BeefLib"
-StartupObject = "GDNativeBeef.Program"
+StartupObject = "GDNative.Program"
+DefaultNamespace = "GDNative"

@@ -1,1 +1,2 @@
 # GDNativeBeef
+[BeefLang](https://www.beeflang.org/) bindings for the Godot 4 C API: https://github.com/godotengine/godot-headers. So far it's very incomplete. I've only implemented gd_interface.h from the godot headers repo. Next, wrappers need to be generated for the rest of the engine using the data in extension_api.json and a python script. See an example of this in the C++ bindings: https://github.com/godotengine/godot-cpp
