@@ -1,0 +1,5 @@
+FileVersion = 1
+Projects = {GDNativeBeef = {Path = "."}, GDNativeBeefTest = {Path = "Test"}}
+
+[Workspace]
+StartupProject = "GDNativeBeefTest"
